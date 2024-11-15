@@ -1,0 +1,29 @@
+Horse_ID,Horse_Name,Jockey_Name,Age,Breed,Race_Record,Group
+
+Group: A
+001,Thunderbolt,Emily Johnson,4,Thoroughbred,10 wins, 5 second places, 2 third places,A
+002,Midnight Shadow,Alex Turner,5,Arabian,8 wins,  3 second places,  4 third places,A
+003, Golden Blaze,Jessica Smith,3,Quarter Horse,6 wins,  2 second places,  1 third place,A
+004,Silver Bullet,Daniel White,6,Appaloosa,12 wins,  8 second places,  3 third places,A
+017,Phoenix Rising,Ava Johnson,4,Paint Horse,10 wins,  6 second places,  3 third places,A
+
+Group: B
+005,Firestorm,Sarah Davis,4,Paint Horse,9 wins,  6 second places,  5 third places,B
+006,Phantom Racer,Michael Lee,5,Standardbred,11 wins,  4 second places,  2 third places,B
+007,Starlight Express,Olivia Brown,3,Thoroughbred,7 wins,  3 second places,  1 third place,B
+008,Moonlit Majesty,Christopher Green,4,Arabian,10 wins,  7 second places,  4 third places,B
+018,Midnight Serenade,Noah Davis,6,Standardbred,13 wins,  7 second places,  4 third places,B
+
+Group: C
+009,Eclipse,Lauren Taylor,6,Quarter Horse,14 wins,  5 second places,  3 third places,C
+010,Thunderstruck,Ryan Harris,4,Appaloosa,13 wins,  6 second places,  2 third places,C
+011,Velvet Dreams,Emma Clark,3,Paint Horse,8 wins,  2 second places,  1 third place,C
+012,Flash Forward,Joshua Miller,5,Standardbred,9 wins,  3 second places,  5 third places,C
+019,Stormy Weather,Lily Smith,3,Thoroughbred,9 wins,  4 second places,  1 third place,C
+
+Group: D
+013,Golden Nugget,Sophia Turner,4,Thoroughbred,12 wins,  4 second places,  3 third places,D
+014,Shadow Dancer,Kyle Anderson,6,Arabian,15 wins,  8 second places,  6 third places,D
+015,Mystic Moon,Megan Roberts,3,Quarter Horse,6 wins,  1 second place,  2 third places,D
+016,Silver Streak,Ethan White,5,Appaloosa,11 wins,  5 second places,  4 third places,D
+020,Red Thunder,Benjamin Green,5,Arabian,14 wins,  6 second places,  3 third places,D
